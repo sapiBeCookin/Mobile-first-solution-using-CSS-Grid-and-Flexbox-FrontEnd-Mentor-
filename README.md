@@ -1,7 +1,7 @@
 # Mobile-first-solution-using-CSS-Grid-and-Flexbox-FrontEnd-Mentor
 
 # ITALIAN
-solo a fine progetto ho visto che su figma si' possono vedere misure etc... 
+solo a fine progetto ho visto che su figma si possono vedere misure etc... 
 
 nella prossima challenge migliorero' ed implementero' le nuove skill applicate.
 
